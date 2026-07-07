@@ -48,8 +48,6 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyren-vtuber&show_icons=true&hide_border=true&title_color=3B8CE0&icon_color=8FD3FF&text_color=c9d1d9&bg_color=0b1c3a" alt="Zyren's GitHub stats"/>
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyren-vtuber&hide_border=true&background=0b1c3a&stroke=3b8ce0&ring=8fd3ff&fire=8fd3ff&currStreakLabel=8fd3ff&sideLabels=c9d1d9&dates=8593ab&currStreakNum=ffffff&sideNums=ffffff" alt="Zyren's streak"/>
 </div>
 
